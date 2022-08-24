@@ -1,1 +1,2 @@
-git merge update_script
+#!/bin/bash
+echo "ALX School"
